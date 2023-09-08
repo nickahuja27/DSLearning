@@ -2,6 +2,8 @@
 /shelf/
 /workspace.xml
 .idea/
+out/*
 *.iml
 *.iws
 *.ipr
+.DS_Store
